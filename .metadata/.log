@@ -176,3 +176,57 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.eclipse.ui 2 2 2023-08-14 05:09:07.448
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:03:39.069
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aEKrFMdG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:03:39.069
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.aEKrFMdG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:03:39.070
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:03:39.070
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aEKrFMdG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:17.134
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:17.135
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@253bc1ba[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:17.135
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.892
+!MESSAGE Boot LS startup time from start to initialized: 1757ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.980
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CoLOoDOHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.981
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.981
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.981
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.981
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.981
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CoLOoDOH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.987
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.990
+!MESSAGE buffering callback sts4.classpath.CoLOoDOH examen false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:18.991
+!MESSAGE executing callback sts4.classpath.CoLOoDOH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-14 06:08:19.317
+!MESSAGE executing callback sts4.classpath.CoLOoDOH SUCCESS [done]

@@ -1,0 +1,6 @@
+package com.cibertec.cl3.examen.model;
+
+@Entity
+public class Producto {
+
+}

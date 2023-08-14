@@ -37,6 +37,7 @@ INDEX VERSION 1.131+C:\Users\Isaac\Desktop\CL3GarciaAlvizuriDiazIsaac-DAW1\CL3_D
 1865797976.index
 723139531.index
 4128536364.index
+354017189.index
 3357419924.index
 1728504115.index
 19811726.index
