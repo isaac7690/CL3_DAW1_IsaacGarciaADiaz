@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Isaac\Desktop\CL3GarciaAlvizuriDiazIsaac-DAW1\CL3_DAW1_IsaacGarciaADiaz\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
