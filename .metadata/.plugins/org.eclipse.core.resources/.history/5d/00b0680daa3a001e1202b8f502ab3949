@@ -1,0 +1,7 @@
+package com.cibertec.cl3.examen.business.impl;
+
+import com.cibertec.cl3.examen.business.ProductoService;
+
+public class ProductoServiceImpl implements ProductoService {
+
+}
