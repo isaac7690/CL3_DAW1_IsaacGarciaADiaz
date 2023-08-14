@@ -1,0 +1,34 @@
+package com.cibertec.cl3.examen.business.impl;
+
+import java.util.List;
+
+import com.cibertec.cl3.examen.business.ProductoService;
+import com.cibertec.cl3.examen.model.Producto;
+
+public class ProductoServiceImpl implements ProductoService {
+
+	@Override
+	public List<Producto> listaProducto() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void registroProducto(Producto producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Producto listaProductoPorId(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void EliminarProducto(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
