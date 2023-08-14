@@ -1,0 +1,9 @@
+package com.cibertec.cl3.examen.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.cibertec.cl3.examen.model.Producto;
+
+public interface ProductoRepository extends JpaRepository<Producto, Integer> {
+
+}

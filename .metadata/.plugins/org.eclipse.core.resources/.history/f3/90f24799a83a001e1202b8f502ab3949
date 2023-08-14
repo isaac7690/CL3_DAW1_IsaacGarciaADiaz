@@ -1,0 +1,5 @@
+package com.cibertec.cl3.examen.business;
+
+public interface ProductoService {
+
+}

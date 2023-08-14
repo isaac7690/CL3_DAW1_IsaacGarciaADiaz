@@ -1,0 +1,5 @@
+package com.cibertec.cl3.examen.dao;
+
+public interface ProductoRepository {
+
+}
