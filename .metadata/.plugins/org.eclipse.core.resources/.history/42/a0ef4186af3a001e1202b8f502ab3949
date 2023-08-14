@@ -1,0 +1,23 @@
+package com.cibertec.cl3.examen;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+import com.cibertec.cl3.examen.business.ProductoService;
+import com.cibertec.cl3.examen.business.impl.ProductoServiceImpl;
+
+@Controller
+public class ProductoController {
+
+	@Autowired
+	private ProductoService service;
+	
+	@GetMapping("/")
+	public String listadoProductos(Model model) {
+		model.addAttribute("","")
+		return "index";
+	}
+	
+
+}

@@ -1,0 +1,15 @@
+package com.cibertec.cl3.examen;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.cibertec.cl3.examen.business.ProductoService;
+import com.cibertec.cl3.examen.business.impl.ProductoServiceImpl;
+
+@Controller
+public class ProductoController {
+
+	@Autowired
+	private ProductoService service;
+
+}

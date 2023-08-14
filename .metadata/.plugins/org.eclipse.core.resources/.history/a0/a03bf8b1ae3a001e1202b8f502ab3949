@@ -1,0 +1,13 @@
+package com.cibertec.cl3.examen;
+
+import org.springframework.stereotype.Controller;
+
+import com.cibertec.cl3.examen.business.ProductoService;
+import com.cibertec.cl3.examen.business.impl.ProductoServiceImpl;
+
+@Controller
+public class ProductoController {
+	
+	private ProductoService service = new ProductoServiceImpl(null)
+
+}
